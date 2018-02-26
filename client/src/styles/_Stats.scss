@@ -1,0 +1,13 @@
+.keywordStats {
+  table {
+    border: 1px solid lightgray;
+
+    tr {
+      th, td {
+        border: 1px solid lightgray;
+        border-collapse: collapse;
+        padding: .5rem;
+      }
+    }
+  }
+}
