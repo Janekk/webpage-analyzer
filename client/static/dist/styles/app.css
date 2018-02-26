@@ -1,0 +1,31 @@
+.keywordStats table {
+  border: 1px solid lightgray; }
+  .keywordStats table tr th, .keywordStats table tr td {
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    padding: .5rem; }
+.keywordsAnalyzer form input {
+  margin: 1rem 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  max-width: 400px;
+  padding: .5rem; }
+
+.keywordsAnalyzer form__url {
+  border-radius: .2rem; }
+  .keywordsAnalyzer form__url--error {
+    border-color: red; }
+
+.keywordsAnalyzer form button {
+  border-radius: .2rem;
+  border: none;
+  padding: 1rem;
+  margin-right: 1rem; }
+  .keywordsAnalyzer form button[type="submit"] {
+    background: #A5D6D9; }
+
+.keywordsAnalyzer__error {
+  color: red; }
+
+/*# sourceMappingURL=app.css.map*/
